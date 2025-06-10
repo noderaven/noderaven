@@ -1,16 +1,19 @@
-## Hi there 👋
+# Node Raven
 
-<!--
-**rileymxyz/rileymxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Aspiring cyber security engineer who vibe codes everything.
+- Lover of proper edge case and error handling.
+- Advocate for open-source and collaborative innovation.
+- When I'm not coding, you might find me gaming.
 
-Here are some ideas to get you started:
+## GitHub Stats
+![Node Raven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noderaven&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noderaven&layout=compact&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+- Building a custom C2 framework for red team operations.
+- Stupid web apps that only serve the purpose of giving me dopamine when it works.
+
+> "Code is like poetry; it's all about expressing complex ideas with simplicity." - Node Raven
+
+Thanks for stopping by! Feel free to explore my repositories.
