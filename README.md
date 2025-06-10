@@ -1,4 +1,4 @@
-# Node Raven
+# noderaven
 
 ## About Me
 - Aspiring cyber security engineer who vibe codes everything.
@@ -14,6 +14,6 @@
 - Building a custom C2 framework for red team operations.
 - Stupid web apps that only serve the purpose of giving me dopamine when it works.
 
-> "Code is like poetry; it's all about expressing complex ideas with simplicity." - Node Raven
+> "Code is like poetry; it's all about expressing complex ideas with simplicity." - noderaven
 
 Thanks for stopping by! Feel free to explore my repositories.
