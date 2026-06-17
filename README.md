@@ -1,6 +1,6 @@
 # noderaven
 
-Advocate for open-source.
+...
 
 ## GitHub Stats
 ![Node Raven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noderaven&show_icons=true&theme=dracula)
