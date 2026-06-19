@@ -55,11 +55,7 @@ noderaven — Security & IT engineer who ships
 
 <div align="center">
 
-![noderaven's GitHub stats](https://github-readme-stats.vercel.app/api?username=noderaven&show_icons=true&hide_border=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noderaven&layout=compact&hide_border=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=noderaven&hide_border=true&theme=tokyonight)
 
 </div>
 
@@ -72,5 +68,6 @@ noderaven — Security & IT engineer who ships
 <a href="https://www.linkedin.com/in/riley-mcgowen/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;<a href="https://rileym.xyz"><img src="https://img.shields.io/badge/Website-rileym.xyz-7AA2F7?style=for-the-badge&logo=hugo&logoColor=white" alt="Website" /></a>
 
 </div>
