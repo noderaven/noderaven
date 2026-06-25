@@ -55,7 +55,29 @@ noderaven — Security & IT engineer who ships
 
 <div align="center">
 
+![noderaven's GitHub stats](https://github-readme-stats.vercel.app/api?username=noderaven&show_icons=true&hide_border=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noderaven&layout=compact&hide_border=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=noderaven&hide_border=true&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noderaven&hide_border=true&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=bb9af7)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=noderaven&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+### `$ ./snake.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noderaven/noderaven/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noderaven/noderaven/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/noderaven/noderaven/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -68,6 +90,5 @@ noderaven — Security & IT engineer who ships
 <a href="https://www.linkedin.com/in/riley-mcgowen/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;<a href="https://rileym.xyz"><img src="https://img.shields.io/badge/Website-rileym.xyz-7AA2F7?style=for-the-badge&logo=hugo&logoColor=white" alt="Website" /></a>
 
 </div>
