@@ -61,8 +61,6 @@ noderaven — Security & IT engineer who ships
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=noderaven&hide_border=true&theme=tokyonight)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=noderaven&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8)
-
 </div>
 
 ---
