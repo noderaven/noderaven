@@ -1,90 +1,53 @@
-<div align="center">
+<!--
+  Reading the source? Everything below is drawn by scripts/survey.mjs.
+  A GitHub Action pulls my contribution calendar every morning, turns each day
+  into a hill, contours the result with marching squares, and pushes the SVGs
+  to the `output` branch. No third-party card services; the fonts ride inside
+  the SVGs. Fork it, change the login, and survey your own year.
+-->
 
-# `noderaven`
-
-<a href="https://github.com/noderaven">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Security+%26+IT+engineer+who+ships;I+automate%2C+I+secure%2C+I+build;PowerShell+%2F+Python+%2F+C%23+%2F+JavaScript" alt="Typing SVG" />
+<a href="https://github.com/noderaven?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noderaven/noderaven/output/sheet-dark.svg">
+    <img alt="noderaven: Security and IT engineer who ships. A topographic map of my last year of GitHub contributions, where busy days rise into hills." src="https://raw.githubusercontent.com/noderaven/noderaven/output/sheet-light.svg" width="100%">
+  </picture>
 </a>
 
-</div>
-
----
-
-### `$ whoami`
-
-```text
-noderaven — Security & IT engineer who ships
-
-> I automate and secure systems: identity, Microsoft 365, endpoint hardening
-> I do security research and build the tooling that comes out of it
-> I'm a full-stack builder who takes products from idea to running in prod
-> Self-hosted by default — I like owning the whole stack
-```
-
----
-
-### `$ cat techstack`
-
-**Languages**
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-867C50?style=flat-square&logo=microsoftoffice&logoColor=white)
-
-**Build**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-0C54C2?style=flat-square&logo=windows&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Domains**
-
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
-![Exchange Online](https://img.shields.io/badge/Exchange%20Online-0078D4?style=flat-square&logo=microsoftexchange&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### `$ git log --stat`
-
-<div align="center">
-
-![noderaven's GitHub stats](https://github-readme-stats.vercel.app/api?username=noderaven&show_icons=true&hide_border=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noderaven&layout=compact&hide_border=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=noderaven&hide_border=true&theme=tokyonight)
-
-</div>
-
----
-
-### `$ ./snake.sh`
-
-<div align="center">
+<a href="https://github.com/noderaven/parallel-lanes"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noderaven/noderaven/output/wp-parallel-lanes-dark.svg"><img alt="parallel-lanes: Claude Code skill that runs an approved implementation plan as parallel lanes of reviewed tasks" src="https://raw.githubusercontent.com/noderaven/noderaven/output/wp-parallel-lanes-light.svg" width="49%"></picture></a>
+<a href="https://github.com/noderaven/solid-macro"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noderaven/noderaven/output/wp-solid-macro-dark.svg"><img alt="solid-macro: VBA macro chain demonstrating modern EDR-evasion techniques" src="https://raw.githubusercontent.com/noderaven/noderaven/output/wp-solid-macro-light.svg" width="49%"></picture></a>
+<a href="https://github.com/noderaven/casebound-converter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noderaven/noderaven/output/wp-casebound-converter-dark.svg"><img alt="casebound-converter: convert PST, OST, MSG and EML email to court-ready, Bates-numbered PDFs" src="https://raw.githubusercontent.com/noderaven/noderaven/output/wp-casebound-converter-light.svg" width="49%"></picture></a>
+<a href="https://github.com/noderaven/payload-obfuscator"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noderaven/noderaven/output/wp-payload-obfuscator-dark.svg"><img alt="payload-obfuscator: a Python tool for studying Windows PE binary obfuscation" src="https://raw.githubusercontent.com/noderaven/noderaven/output/wp-payload-obfuscator-light.svg" width="49%"></picture></a>
+<a href="https://github.com/noderaven/strava-overlay"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noderaven/noderaven/output/wp-strava-overlay-dark.svg"><img alt="strava-overlay: topographic trail-running poster generator" src="https://raw.githubusercontent.com/noderaven/noderaven/output/wp-strava-overlay-light.svg" width="49%"></picture></a>
+<a href="https://github.com/noderaven/breach-web-scraper"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noderaven/noderaven/output/wp-breach-web-scraper-dark.svg"><img alt="breach-web-scraper: scrapes breach websites into a readable summary" src="https://raw.githubusercontent.com/noderaven/noderaven/output/wp-breach-web-scraper-light.svg" width="49%"></picture></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noderaven/noderaven/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noderaven/noderaven/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/noderaven/noderaven/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noderaven/noderaven/output/legend-dark.svg">
+  <img alt="Legend: language share across public repos, plus the tools I build with and the ground I cover: Microsoft 365, Exchange Online, identity, endpoint hardening, Windows and Linux." src="https://raw.githubusercontent.com/noderaven/noderaven/output/legend-light.svg" width="100%">
 </picture>
 
-</div>
+<details>
+<summary><b>Field kit</b>: PowerShell I reach for on Exchange Online and Windows endpoints</summary>
+<br>
 
----
+| Script | What it does |
+| --- | --- |
+| [Enable-AllMailboxAuditingForTenant](https://github.com/noderaven/Enable-AllMailboxAuditingForTenant) | Turns on mailbox auditing for every user, shared, room and equipment mailbox, with a standard set of owner, admin and delegate actions |
+| [Enable-AllUserMailboxArchives](https://github.com/noderaven/Enable-AllUserMailboxArchives) | Enables the archive on every user mailbox that doesn't have one yet |
+| [Set-MrmPolicyOnUserMailboxes](https://github.com/noderaven/Set-MrmPolicyOnUserMailboxes) | Applies a retention policy to all user mailboxes |
+| [Uninstall-WebrootAndEnableDefender](https://github.com/noderaven/Uninstall-WebrootAndEnableDefender) | Removes Webroot SecureAnywhere cleanly and switches Microsoft Defender on |
+| [Get-NetAdapterPowerConfig](https://github.com/noderaven/Get-NetAdapterPowerConfig) | Reports network adapter power-saving settings, built to run remotely and unattended |
+| [Update-LSOAndTest](https://github.com/noderaven/Update-LSOAndTest) | Disables Large Send Offload, tests connectivity, and tries to recover if the network drops |
 
-### `> connect`
+</details>
 
-<div align="center">
+<details>
+<summary><b>How this page is made</b></summary>
+<br>
 
-<a href="https://www.linkedin.com/in/riley-mcgowen/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+The map is my contribution calendar. Each day is a survey point, and each day's commits raise a hill of height log<sub>2</sub>(1 + commits). The hills are summed, contoured with marching squares and smoothed into Béziers. The five highest peaks are marked with that day's count, and the magenta flight line links them in order, ending today. The line under each project is its weekly commits over the past year.
 
-</div>
+[`scripts/survey.mjs`](scripts/survey.mjs) does all of it with no dependencies, and [`.github/workflows/survey.yml`](.github/workflows/survey.yml) runs it every morning.
+
+</details>
+
+<p align="right"><a href="https://www.linkedin.com/in/riley-mcgowen/">Find me on LinkedIn</a></p>
