@@ -14,11 +14,11 @@ jobs:
     permissions:
       contents: write          # lets this job push to the output branch
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
-          node-version: 22
+          node-version: 24
 
       - name: Draw the sheet, waypoints and legend
         run: node scripts/survey.mjs ${{ github.repository_owner }}
@@ -28,7 +28,7 @@ jobs:
           SURVEY_TOKEN: ${{ secrets.SURVEY_TOKEN }}
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
